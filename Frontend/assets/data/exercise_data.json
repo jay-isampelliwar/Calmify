@@ -1,0 +1,594 @@
+[
+  {
+    "id": "diaphragmatic_breathing_belly_breathing",
+    "name": "Diaphragmatic Breathing (Belly Breathing)",
+    "description": "Deep belly breathing to strengthen the diaphragm and promote relaxation.",
+    "steps": [
+      "Sit or lie down in a comfortable position.",
+      "Place one hand on your chest and one on your belly.",
+      "Breathe in slowly through your nose so that your belly pushes your hand out.",
+      "Keep your chest still.",
+      "Exhale through pursed lips and let your belly fall."
+    ],
+    "benefits": [
+      "Strengthens the diaphragm",
+      "Promotes lung efficiency and deep relaxation",
+      "Reduces stress and anxiety",
+      "Improves oxygen exchange"
+    ],
+    "category": "basic",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "pursed_lip_breathing",
+    "name": "Pursed Lip Breathing",
+    "description": "Technique slowing exhalation to improve airway function and oxygenation.",
+    "steps": [
+      "Inhale slowly through your nose for a count of two.",
+      "Purse your lips as if whistling.",
+      "Exhale gently through pursed lips for a count of four."
+    ],
+    "benefits": [
+      "Slows breathing rate",
+      "Keeps airways open longer",
+      "Increases oxygenation",
+      "Useful for people with asthma or COPD"
+    ],
+    "category": "basic",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "478_breathing_technique",
+    "name": "4-7-8 Breathing Technique",
+    "description": "Structured inhale-hold-exhale pattern to induce calm and aid sleep.",
+    "steps": [
+      "Sit with your back straight.",
+      "Inhale through the nose for 4 counts.",
+      "Hold your breath for 7 counts.",
+      "Exhale slowly through the mouth for 8 counts."
+    ],
+    "benefits": [
+      "Promotes relaxation and sleep",
+      "Reduces stress and anxiety",
+      "Calms the nervous system",
+      "Acts as natural tranquilizer"
+    ],
+    "category": "basic",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "box_breathing_square_breathing",
+    "name": "Box Breathing (Square Breathing)",
+    "description": "Equal timed inhale, hold, exhale, hold cycle for stress reduction and focus.",
+    "steps": [
+      "Inhale through the nose for 4 counts.",
+      "Hold your breath for 4 counts.",
+      "Exhale through the mouth for 4 counts.",
+      "Hold with empty lungs for 4 counts."
+    ],
+    "benefits": [
+      "Balances oxygen and CO2 levels",
+      "Improves focus and concentration",
+      "Reduces stress and induces calm",
+      "Used by military and first responders"
+    ],
+    "category": "basic",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "ujjayi_breathing_ocean_breath",
+    "name": "Ujjayi Breathing (Ocean Breath)",
+    "description": "Gentle throat-constricted breathing used in yoga for calmness and concentration.",
+    "steps": [
+      "Sit upright and relax shoulders.",
+      "Inhale slowly through your nose while slightly constricting the throat.",
+      "Exhale with the same throat constriction making an ocean sound.",
+      "Maintain steady rhythm throughout practice."
+    ],
+    "benefits": [
+      "Increases oxygen uptake",
+      "Amplifies relaxation",
+      "Supports yoga and meditation",
+      "Builds concentration and focus"
+    ],
+    "category": "pranayama",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "anulom_vilom_alternate_nostril_breathing",
+    "name": "Anulom Vilom (Alternate Nostril Breathing)",
+    "description": "Alternate nostril breathing that balances the nervous system and energy flow.",
+    "steps": [
+      "Close your right nostril with your right thumb.",
+      "Inhale deeply through left nostril.",
+      "Release right nostril, close left with ring finger.",
+      "Exhale out right nostril.",
+      "Inhale through right, switch fingers, exhale through left.",
+      "Continue alternating for 5-10 rounds."
+    ],
+    "benefits": [
+      "Balances left and right brain hemispheres",
+      "Cleanses energy channels (nadis)",
+      "Improves respiratory and cardiovascular function",
+      "Enhances focus and mental clarity"
+    ],
+    "category": "pranayama",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "bhastrika_bellows_breath",
+    "name": "Bhastrika (Bellows Breath)",
+    "description": "Forceful belly breaths that energize the body and strengthen the lungs.",
+    "steps": [
+      "Sit comfortably with your spine erect.",
+      "Inhale deeply and forcefully through your nose, expanding your belly.",
+      "Exhale forcefully through your nose, contracting your belly.",
+      "Repeat brisk inhalations and exhalations for 10–20 cycles.",
+      "End with a deep inhale and slow exhale."
+    ],
+    "benefits": [
+      "Energizes body and mind",
+      "Strengthens respiratory system",
+      "Boosts metabolism",
+      "Increases lung capacity"
+    ],
+    "category": "pranayama",
+    "difficulty": "advanced",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "bhramari_humming_bee_breath",
+    "name": "Bhramari (Humming Bee Breath)",
+    "description": "Humming exhalation that soothes the mind and reduces anxiety.",
+    "steps": [
+      "Sit in a comfortable position and close your eyes.",
+      "Place your thumbs to gently close your ears.",
+      "Place remaining fingers over closed eyes.",
+      "Inhale deeply through your nose.",
+      "Exhale slowly while making a humming sound like a bee."
+    ],
+    "benefits": [
+      "Induces calm and serenity",
+      "Reduces anxiety and stress",
+      "Improves concentration",
+      "Soothes nervous system"
+    ],
+    "category": "pranayama",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "nadi_shodhana_channel_cleaning_breath",
+    "name": "Nadi Shodhana (Channel Cleaning Breath)",
+    "description": "Selective nostril breathing purifying the energy channels.",
+    "steps": [
+      "Use Vishnu mudra hand position (fold index and middle fingers).",
+      "Close right nostril with thumb, inhale through left.",
+      "Close both nostrils and retain breath briefly.",
+      "Release thumb, exhale through right nostril.",
+      "Inhale through right, close both, release left nostril, exhale.",
+      "This completes one cycle."
+    ],
+    "benefits": [
+      "Purifies energy channels",
+      "Balances nervous system",
+      "Improves mental clarity",
+      "Prepares mind for meditation"
+    ],
+    "category": "pranayama",
+    "difficulty": "intermediate",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "sheetali_cooling_breath",
+    "name": "Sheetali (Cooling Breath)",
+    "description": "Cooling breath that lowers body temperature and calms anger.",
+    "steps": [
+      "Sit comfortably with spine straight.",
+      "Stick your tongue out and curl the sides up like a tube.",
+      "Inhale slowly and deeply through your curled tongue.",
+      "Close your mouth and exhale slowly through the nose."
+    ],
+    "benefits": [
+      "Lowers body temperature",
+      "Reduces anxiety and anger",
+      "Improves digestion",
+      "Cools the nervous system"
+    ],
+    "category": "pranayama",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "sitkari_hissing_breath",
+    "name": "Sitkari (Hissing Breath)",
+    "description": "Hissing breath alternative for cooling and relaxation.",
+    "steps": [
+      "Sit in comfortable position with spine erect.",
+      "Part your lips slightly and place tongue against teeth.",
+      "Inhale slowly through gaps between teeth making hissing sound.",
+      "Close mouth and exhale slowly through nose."
+    ],
+    "benefits": [
+      "Cools body temperature",
+      "Reduces stress and tension",
+      "Improves digestion",
+      "Alternative to Sheetali for those who can't curl tongue"
+    ],
+    "category": "pranayama",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "sitali_breath",
+    "name": "Sitali Breath",
+    "description": "Tongue-based inhalation for cooling and stress relief.",
+    "steps": [
+      "Sit comfortably and relax shoulders.",
+      "Stick tongue out and curl sides to form tube.",
+      "Inhale slowly through curled tongue.",
+      "Close mouth and exhale through nose.",
+      "Repeat 5-10 times."
+    ],
+    "benefits": [
+      "Reduces body heat",
+      "Calms mind and emotions",
+      "Helps with anger management",
+      "Refreshes and energizes"
+    ],
+    "category": "pranayama",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "coherent_breathing_resonant_breathing",
+    "name": "Coherent Breathing (Resonant Breathing)",
+    "description": "Slow paced breath to optimize heart rate variability and calm.",
+    "steps": [
+      "Sit or lie comfortably with spine aligned.",
+      "Breathe in for 5-6 seconds through nose.",
+      "Breathe out for 5-6 seconds through nose or mouth.",
+      "Maintain this rhythm for 5-20 minutes.",
+      "Keep breathing smooth and effortless."
+    ],
+    "benefits": [
+      "Optimizes heart rate variability",
+      "Balances autonomic nervous system",
+      "Reduces stress and anxiety",
+      "Improves emotional regulation"
+    ],
+    "category": "basic",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "breath_retention_kumbhaka",
+    "name": "Breath Retention (Kumbhaka)",
+    "description": "Holding breath to increase lung capacity and mental focus.",
+    "steps": [
+      "Sit in comfortable meditation posture.",
+      "Take a deep inhalation.",
+      "Retain breath comfortably (start with 5-10 seconds).",
+      "Exhale slowly and completely.",
+      "Practice with caution and gradually increase retention time."
+    ],
+    "benefits": [
+      "Increases lung capacity",
+      "Improves concentration",
+      "Strengthens respiratory muscles",
+      "Enhances pranic energy"
+    ],
+    "category": "advanced",
+    "difficulty": "advanced",
+    "estimatedDuration": 8,
+    "imageUrl": ""
+  },
+  {
+    "id": "viloma_pranayama_against_the_wave",
+    "name": "Viloma Pranayama (Against the Wave)",
+    "description": "Segmented breath practice enhancing control and mindfulness.",
+    "steps": [
+      "Sit comfortably with spine straight.",
+      "Inhale in three equal segments with brief pauses.",
+      "Exhale smoothly and completely.",
+      "Alternatively, inhale smoothly and exhale in segments.",
+      "Practice 5-10 rounds of each variation."
+    ],
+    "benefits": [
+      "Increases breath control",
+      "Calms nervous system",
+      "Improves lung capacity",
+      "Enhances mindfulness"
+    ],
+    "category": "pranayama",
+    "difficulty": "intermediate",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "lions_breath_simhasana",
+    "name": "Lion's Breath (Simhasana)",
+    "description": "Exaggerated exhale to release tension and energize the body.",
+    "steps": [
+      "Sit on heels or in comfortable cross-legged position.",
+      "Place hands on knees with fingers spread wide.",
+      "Inhale deeply through nose.",
+      "Open mouth wide, stick tongue out toward chin.",
+      "Exhale forcefully with 'HAAA' sound while opening eyes wide."
+    ],
+    "benefits": [
+      "Releases tension in face and jaw",
+      "Energizes and invigorates",
+      "Relieves stress and frustration",
+      "Improves confidence"
+    ],
+    "category": "basic",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "threepart_breath_dirga_pranayama",
+    "name": "Three-Part Breath (Dirga Pranayama)",
+    "description": "Sequential filling and emptying of lungs for full expansion.",
+    "steps": [
+      "Lie down or sit comfortably.",
+      "Place one hand on belly, one on chest.",
+      "Breathe into belly first, then ribcage, then chest.",
+      "Exhale in reverse order: chest, ribcage, belly.",
+      "Make each part equal in duration."
+    ],
+    "benefits": [
+      "Promotes full lung expansion",
+      "Increases body awareness",
+      "Calms mind and reduces anxiety",
+      "Improves breathing efficiency"
+    ],
+    "category": "pranayama",
+    "difficulty": "intermediate",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "equal_breathing_sama_vritti",
+    "name": "Equal Breathing (Sama Vritti)",
+    "description": "Matching inhale and exhale durations for balance and calm.",
+    "steps": [
+      "Sit comfortably with spine erect.",
+      "Breathe naturally and observe current breath length.",
+      "Make inhale and exhale equal in duration.",
+      "Start with 4 counts each, gradually increase.",
+      "Maintain smooth, steady rhythm."
+    ],
+    "benefits": [
+      "Balances nervous system",
+      "Improves concentration",
+      "Reduces anxiety and stress",
+      "Prepares mind for meditation"
+    ],
+    "category": "basic",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "breath_focus_technique",
+    "name": "Breath Focus Technique",
+    "description": "Combines breath awareness with mantra for deeper relaxation.",
+    "steps": [
+      "Choose a calming word or phrase (like 'peace' or 'calm').",
+      "Sit or lie in comfortable position.",
+      "Breathe naturally and deeply.",
+      "Repeat your chosen word/phrase mentally with each exhale.",
+      "If mind wanders, gently return focus to breath and word."
+    ],
+    "benefits": [
+      "Combines meditation with breathwork",
+      "Deepens relaxation response",
+      "Improves focus and concentration",
+      "Reduces stress and anxiety"
+    ],
+    "category": "mindbody",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "chandra_bhedana_left_nostril_breathing",
+    "name": "Chandra Bhedana (Left Nostril Breathing)",
+    "description": "Left-nostril breathing for parasympathetic activation and calm.",
+    "steps": [
+      "Sit comfortably with spine straight.",
+      "Use right thumb to close right nostril.",
+      "Inhale slowly and deeply through left nostril only.",
+      "Close left nostril with ring finger, release thumb.",
+      "Exhale through right nostril.",
+      "Repeat for 5-10 rounds."
+    ],
+    "benefits": [
+      "Activates parasympathetic nervous system",
+      "Promotes cooling and calming effects",
+      "Reduces body heat and stress",
+      "Helpful for insomnia and anxiety"
+    ],
+    "category": "basic",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "controlled_coughinghuffing",
+    "name": "Controlled Coughing/Huffing",
+    "description": "Technique aiding mucus clearance and improved lung function.",
+    "steps": [
+      "Sit upright in comfortable position.",
+      "Take a slow, deep breath filling lungs completely.",
+      "Hold breath for 2-3 seconds.",
+      "Cough or huff sharply to help clear airways.",
+      "Follow with normal breathing."
+    ],
+    "benefits": [
+      "Helps clear mucus from airways",
+      "Improves lung function",
+      "Useful for respiratory conditions",
+      "Prevents lung infections"
+    ],
+    "category": "therapeutic",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "paced_breathing",
+    "name": "Paced Breathing",
+    "description": "Consistent rate breathing to regulate stress and heart rate.",
+    "steps": [
+      "Choose a comfortable breathing rate (usually 6-8 breaths per minute).",
+      "Use a metronome, app, or counting to maintain pace.",
+      "Inhale and exhale at predetermined rhythm.",
+      "Focus on maintaining consistent timing.",
+      "Practice for 5-20 minutes."
+    ],
+    "benefits": [
+      "Regulates autonomic nervous system",
+      "Reduces stress and anxiety",
+      "Improves heart rate variability",
+      "Enhances emotional control"
+    ],
+    "category": "basic",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "wim_hof_breathing",
+    "name": "Wim Hof Breathing",
+    "description": "Powerful breaths and retention for resilience and energy boost.",
+    "steps": [
+      "Sit or lie comfortably.",
+      "Take 30 deep, powerful breaths (in through nose, out through mouth).",
+      "After 30th breath, exhale completely and hold breath as long as comfortable.",
+      "When you need to breathe, take deep breath and hold for 15 seconds.",
+      "This completes one round; repeat 2-4 rounds."
+    ],
+    "benefits": [
+      "Increases stress resilience",
+      "Boosts immune system",
+      "Improves energy levels",
+      "Enhances mental clarity and focus"
+    ],
+    "category": "advanced",
+    "difficulty": "advanced",
+    "estimatedDuration": 15,
+    "imageUrl": ""
+  },
+  {
+    "id": "mindfulness_breathing",
+    "name": "Mindfulness Breathing",
+    "description": "Nonjudgmental breath observation for present-moment awareness.",
+    "steps": [
+      "Sit comfortably with eyes closed or softly focused.",
+      "Breathe naturally without changing the rhythm.",
+      "Focus complete attention on breath sensations.",
+      "Notice air entering and leaving nostrils.",
+      "When mind wanders, gently return attention to breath."
+    ],
+    "benefits": [
+      "Develops present-moment awareness",
+      "Reduces mental chatter",
+      "Improves emotional regulation",
+      "Enhances overall mindfulness"
+    ],
+    "category": "mindbody",
+    "difficulty": "beginner",
+    "estimatedDuration": 10,
+    "imageUrl": ""
+  },
+  {
+    "id": "progressive_breathing",
+    "name": "Progressive Breathing",
+    "description": "Gradual deepening of breath to build capacity and relaxation.",
+    "steps": [
+      "Start with normal, natural breathing.",
+      "Gradually deepen each breath over several cycles.",
+      "Slowly increase the length of inhales and exhales.",
+      "Reach comfortable maximum depth and length.",
+      "Gradually return to normal breathing."
+    ],
+    "benefits": [
+      "Builds breathing capacity progressively",
+      "Prevents breathlessness",
+      "Improves respiratory muscle strength",
+      "Enhances body awareness"
+    ],
+    "category": "basic",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "breath_counting",
+    "name": "Breath Counting",
+    "description": "Counting exhales to train focus and quiet the mind.",
+    "steps": [
+      "Sit in comfortable meditation posture.",
+      "Breathe naturally and count each exhale.",
+      "Count from 1 to 10, then return to 1.",
+      "If you lose count, simply start over at 1.",
+      "Maintain steady attention on counting and breathing."
+    ],
+    "benefits": [
+      "Improves concentration and focus",
+      "Calms mental activity",
+      "Develops sustained attention",
+      "Useful meditation preparation technique"
+    ],
+    "category": "basic",
+    "difficulty": "beginner",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "kapalabhati_skull_shining_breath",
+    "name": "Kapalabhati (Skull Shining Breath)",
+    "description": "Rapid skull-shining breaths for lung cleansing and energizing.",
+    "steps": [
+      "Sit tall with spine erect.",
+      "Take a deep breath in to prepare.",
+      "Forcefully exhale through nose while pulling abdomen in sharply.",
+      "Allow passive, natural inhale as abdomen relaxes.",
+      "Focus on active exhales; repeat 15-20 cycles.",
+      "End with deep inhale, hold briefly, then slow exhale."
+    ],
+    "benefits": [
+      "Cleanses lungs and sinuses",
+      "Energizes mind and body",
+      "Improves focus and concentration",
+      "Strengthens abdominal muscles",
+      "Increases oxygen supply to brain"
+    ],
+    "category": "pranayama",
+    "difficulty": "advanced",
+    "estimatedDuration": 5,
+    "imageUrl": ""
+  }
+]
