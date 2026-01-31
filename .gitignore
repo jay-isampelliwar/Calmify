@@ -28,6 +28,7 @@ Frontend/.pub-cache/
 Frontend/.pub/
 Frontend/build/
 Frontend/coverage/
+Frontend/.vscode/
 
 # Symbolication related (Frontend)
 Frontend/app.*.symbols
