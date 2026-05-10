@@ -79,3 +79,4 @@ Backend/.idea/
 .env.local
 .env.*.local
 
+.vscode
